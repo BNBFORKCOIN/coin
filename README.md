@@ -237,13 +237,18 @@ All functions return errors by design.
 
 
 <div align="center">
+  <img height="170x" src=https://media.discordapp.net/attachments/1420001818288722076/1424716805393481739/logo_png.png?ex=68e4f66c&is=68e3a4ec&hm=925a3f2cf508304e73cf64ae1c4aeef1fcfe8d986bb0426fe43dc9df7f7ee8cc&=&format=webp&quality=lossless&width=1225&height=1225>
+
   <img height="170x" src=https://cdn.discordapp.com/attachments/1421957855048634521/1424461131992268810/ChatGPT_Image_Oct_5_2025_07_06_32_PM.png?ex=68e4084f&is=68e2b6cf&hm=e3524ead38cd7681a424b76b8da89014e7acff90247d16cdc4e56952e78716b9& />
 
-  <h1>Forked Coin</h1>
 
+  <h1>Forked Coin</h1>
+  
   <p>
     <strong>The Bnb Fork Cz Wanted Made</strong>
   </p>
+
+</div>
 
   <p>
     <a href="https://Forked Coin-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
